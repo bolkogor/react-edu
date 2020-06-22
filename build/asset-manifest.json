@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bolkogor.github.io/react-edu/static/css/main.c2f28af4.chunk.css",
+    "main.js": "/bolkogor.github.io/react-edu/static/js/main.37438fda.chunk.js",
+    "main.js.map": "/bolkogor.github.io/react-edu/static/js/main.37438fda.chunk.js.map",
+    "runtime-main.js": "/bolkogor.github.io/react-edu/static/js/runtime-main.b431369a.js",
+    "runtime-main.js.map": "/bolkogor.github.io/react-edu/static/js/runtime-main.b431369a.js.map",
+    "static/js/2.b75e91ad.chunk.js": "/bolkogor.github.io/react-edu/static/js/2.b75e91ad.chunk.js",
+    "static/js/2.b75e91ad.chunk.js.map": "/bolkogor.github.io/react-edu/static/js/2.b75e91ad.chunk.js.map",
+    "index.html": "/bolkogor.github.io/react-edu/index.html",
+    "precache-manifest.736ca62507e263d0f48c4d0cb26e58c9.js": "/bolkogor.github.io/react-edu/precache-manifest.736ca62507e263d0f48c4d0cb26e58c9.js",
+    "service-worker.js": "/bolkogor.github.io/react-edu/service-worker.js",
+    "static/css/main.c2f28af4.chunk.css.map": "/bolkogor.github.io/react-edu/static/css/main.c2f28af4.chunk.css.map",
+    "static/js/2.b75e91ad.chunk.js.LICENSE.txt": "/bolkogor.github.io/react-edu/static/js/2.b75e91ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b431369a.js",
+    "static/js/2.b75e91ad.chunk.js",
+    "static/css/main.c2f28af4.chunk.css",
+    "static/js/main.37438fda.chunk.js"
+  ]
+}
